@@ -2,40 +2,6 @@
     "artists": [
       {
         "id": "1",
-        "name": "Tracy Kemboi",
-        "bio": "Tracy is a self taught string artist based in Nairobi Kenya.She uses nails and string/yarn to make very realistic almost photographic potraits.",
-        "genre": "String Art",
-        "statement": "Upclose art is ugly",
-        "processVideoUrl": "https://example.com/faith-process-video",
-        "portfolio": [
-          {
-            "id": "1",
-            "title": "REMAKE GIRL WITH THE PEARL EARING",
-            "imageUrl": "https://drive.google.com/file/d/19LljOGxwAOa0rG75hpvBCWPaCKy05RXp/view?usp=sharing",
-            "description": "Rectangular string art",
-            "price": 1500,
-            "purchased": false
-          },
-          {
-            "id": "2",
-            "title": "CHI",
-            "imageUrl": "https://drive.google.com/file/d/1-4v8m24tQie5Hfcr_qqo_X1yU50zEn5L/view?usp=sharing",
-            "description": "Circular string art",
-            "price": 1300,
-            "purchased": false
-          },
-          {
-            "id": "3",
-            "title": "SIDE EyE",
-            "imageUrl": "https://drive.google.com/file/d/1-RPCUCKrHjRLuDe9Rnhq9xh54RSGyfWU/view?usp=sharing",
-            "description": "Rectangular String art",
-            "price": 2500,
-            "purchased": false
-          }
-        ]
-      },
-      {
-        "id": "2",
         "name": "Anne Mwiti",
         "bio": "Anne Mwiti is an accomplished artist living in Nairobi, Kenya and lecturing at the Department of Fine Art and Design, Kenyatta University.Anne's artworks are creations influenced by the contemporary world of pop culture, the African society she has grown in and spiritual expressions and intuitions from within her psyche. She started drawing at the age of five having scribbled a female figure like an Egyptian princess. Since then she has followed her dream to become an internationally recognised artists from Africa and emerged as the winner in the World Citizen Artist competition 2014 to be awarded the WCA award 2014 in London with the artwork.",
         "genre": "Contemporary",
@@ -69,7 +35,7 @@
         ]
       },
       {
-        "id": "3",
+        "id": "2",
         "name": "Nega Yilma",
         "bio": "Nega Yilma, the founder and proprietor of Nega Art, was born and raised In Ethiopia and has been a household name among those practicing art in the horn of Africa.Nega, the founder and proprietor of Negaart, was born and raised in Ethiopia. Nega has now become a household name among those practising art on the African continent. As an artist, he strives to take art-loving people on a journey with him as he creates his experimental art.He holds a Bachelor of Art Degree in Fine Arts, and has taken part in international art exhibitions in Ethiopia, Kenya, Uganda, South Africa, France, as well as throughout Europe and the USA.",
         "genre": "Impressionist",
@@ -111,7 +77,7 @@
         ]
       },
       {
-        "id": "4",
+        "id": "3",
         "name": "Vincent Van Gogh",
         "bio": "Throughout his life, and particularly in his final years, Van Gogh painted prolifically, using a signature vivid colour palette. While alive, he was never a famous man, often subsisting on the financial support of his brother Theo. After his death though, Van Gogh’s reputation grew.",
         "genre": "Classical",
@@ -137,7 +103,7 @@
         ]
       },
       {
-        "id": "5",
+        "id": "4",
         "name": "Boniface Maina",
         "bio": "Boniface Maina explores the inconsistencies and conflicts of human interaction within physical space.The distorted, often exaggerated figures that populate his compositions are intricately drawn with interwoven lines, taking on a muscular appearance. Seeming to embody the anatomical study of human form, these figures mirror the particularities of everyday existence, inviting the viewer to reflect on their own physical and social interactions and contortions. ",
         "genre": "Contemporary",
@@ -169,14 +135,14 @@
         "id": "1",
         "title": "Starting Your Art Business",
         "type": "article",
-        "contentUrl": "https://www.mooninvoice.com/blog/how-to-start-an-art-business/",
+        "contentUrl": "https://example.com/art-business-101",
         "description": "A guide to starting and running a successful art business."
       },
       {
         "id": "2",
         "title": "Introduction to WebGL for Artists",
         "type": "tutorial",
-        "contentUrl": "https://www.cssdesignawards.com/website-gallery?feature=webgl",
+        "contentUrl": "https://example.com/webgl-tutorial",
         "description": "A beginner's guide to using WebGL for creating interactive art."
       }
     ]
